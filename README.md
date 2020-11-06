@@ -1,1 +1,3 @@
-# my_first_python_project
+# My first python project
+
+## This project is based on periodic notification for drinking water.
