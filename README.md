@@ -1,5 +1,13 @@
-# My first python project
+# Mini project in Python
 
-## This project gives you notification to drink water every one hour.
+## Project 1
 
-### My second project is a pdf reader
+### Pdf reader
+
+## Project 2
+
+### Audiobook
+
+## Project 3
+
+### combination of both the code.
